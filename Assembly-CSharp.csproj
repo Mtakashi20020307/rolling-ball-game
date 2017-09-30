@@ -58,8 +58,6 @@
      <Compile Include="Assets\UIController.cs" />
      <Compile Include="Assets\UIControllervol2.cs" />
      <Compile Include="Assets\UIControllervol3.cs" />
-     <None Include="Assets\Plugins\GitHub\Editor\CREDITS.txt" />
-     <None Include="Assets\Plugins\GitHub\Editor\EULA.txt" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
